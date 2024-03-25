@@ -18,18 +18,10 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
 
 gato<h1>
-
-
-
-
-
 gato<h2>
 gato<h3>
 gato<h4>
 gato<h5>
 gato<h6>
-gato<h7>
-gato<h8>
-gato<h9>
-gato<h0>
+
 
