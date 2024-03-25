@@ -16,3 +16,5 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+[gatofofo](https://blog-static.petlove.com.br/wp-content/uploads/2021/08/Gato-filhote-7.jpg)
