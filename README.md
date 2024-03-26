@@ -44,3 +44,9 @@ UC-01|O que é?    |uma descrição escrita de como os usuários realizarão tar
 UC-02|Número da UC|indica a quantidade de UCs
 UC-03|Nome da UC  |indica qual a UC
 UC-04|descrição   |descreve a UC
+
+### Links úteis
+
+<https://www.monitoratec.com.br/blog/servico-de-engenharia-de-requisitos/>
+
+<https://pt.wikipedia.org/wiki/Engenharia_de_requisitos>
