@@ -34,4 +34,13 @@ Existem dois tipos de requisitos:
 1. Requisitos funcionais -  descrevem as funcionalidades que se espera que o sistema disponibilize, de uma forma completa e consistente. É aquilo que o utilizador espera que o sistema ofereça, atendendo aos propósitos para qual o sistema será desenvolvido.
 2. Requisitos não funcionais - referem-se a aspectos não funcionais do sistema, como restrições nas quais o sistema deve operar ou propriedades emergentes do sistema. Costumam ser classificados como: Utilidade, Confiança, Desempenho, Suporte e Escalabilidade.
 
-<img src="https://github.com/gabrielrodriguestenorio/aulaMarkdown/blob/main/AAAAAAAAAAAAAAAAAAAAA%20requyisito.png?raw=true" width "1800" >
+<img src="https://github.com/gabrielrodriguestenorio/aulaMarkdown/blob/main/visao-requisito-software-requisito-funcional-nao-funcional-regra-de-negocio.png?raw=true">
+
+### Tabela 
+
+UC   | Nome da UC | Descrição da UC 
+-----|------------|----------------
+UC-01|O que é?    |uma descrição escrita de como os usuários realizarão tarefas um sistema
+UC-02|Número da UC|indica a quantidade de UCs
+UC-03|Nome da UC  |indica qual a UC
+UC-04|descrição   |descreve a UC
