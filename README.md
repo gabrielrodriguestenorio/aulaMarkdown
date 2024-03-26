@@ -27,3 +27,8 @@ A engenharia de requisitos oferece controles e padrões para que as exigências 
 Isso garante a qualidade do software, além de mais produtividade em suas etapas de desenvolvimento, operação e manutenção.
 
 ![engenharia de requisitos](https://slideplayer.com.br/slide/1793382/9/images/3/Engenharia+de+Requisitos.jpg)
+
+### Tipos de Requisitos
+
+  Existem 4 tipos de requisitos:
+  -
