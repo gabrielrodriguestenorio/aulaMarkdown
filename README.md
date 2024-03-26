@@ -34,5 +34,5 @@ Existem dois tipos de requisitos:
 1. Requisitos funcionais -  descrevem as funcionalidades que se espera que o sistema disponibilize, de uma forma completa e consistente. É aquilo que o utilizador espera que o sistema ofereça, atendendo aos propósitos para qual o sistema será desenvolvido.
 2. Requisitos não funcionais - referem-se a aspectos não funcionais do sistema, como restrições nas quais o sistema deve operar ou propriedades emergentes do sistema. Costumam ser classificados como: Utilidade, Confiança, Desempenho, Suporte e Escalabilidade.
 
-![resuisitinhos](https://www.ateomomento.com.br/wp-content/uploads/2013/11/visao-requisito-software-requisito-funcional-nao-funcional-regra-de-negocio.png)
 
+![engenharia de requisitos](https://www.ateomomento.com.br/wp-content/uploads/2013/11/visao-requisito-software-requisito-funcional-nao-funcional-regra-de-negocio.png)
