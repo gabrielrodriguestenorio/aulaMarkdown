@@ -30,6 +30,6 @@ Isso garante a qualidade do software, além de mais produtividade em suas etapas
 
 ### Tipos de Requisitos
 
-  Existem quator tipos de requisitos: 
+  Existem quatro tipos de requisitos: 
   *Requisitos funcionais -  descrevem as funcionalidades que se espera que o sistema disponibilize, de uma forma completa e consistente. É aquilo que o utilizador espera que o sistema ofereça, atendendo aos propósitos para qual o sistema será desenvolvido.
   
