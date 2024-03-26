@@ -25,3 +25,5 @@ O serviço de engenharia de requisitos é indispensável para garantir o sucesso
 Mais que contar com boas ideias e profissionais devidamente qualificados, o processo de criação de um sistema exige pleno alinhamento entre os envolvidos e clareza sobre seus objetivos.
 A engenharia de requisitos oferece controles e padrões para que as exigências do projeto sejam claras, correspondam às suas finalidades e possam ser compreendidas por todos os responsáveis.
 Isso garante a qualidade do software, além de mais produtividade em suas etapas de desenvolvimento, operação e manutenção.
+
+![engenharia de requisitos](https://lh3.googleusercontent.com/proxy/GVkRRL4WcC_Rgdf2Y3u-4K_G6ymSP66AE-zT1DrgbiJeRN05l13PP47_prXlghrFSlzKurWQewuTqsjpVgqV4wwheP8Sm_D9OrN9ymwAvRJQD9KeOS_wA9HEeljkQjONBCqoWaCdJRNszi7voxmYVapd64AD7Ik)
