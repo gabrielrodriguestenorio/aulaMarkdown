@@ -17,6 +17,10 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
 
+## Engenharia de requisitos
+
+### Conceito Geral
+
 O serviço de engenharia de requisitos é indispensável para garantir o sucesso no desenvolvimento de qualquer software.
 Mais que contar com boas ideias e profissionais devidamente qualificados, o processo de criação de um sistema exige pleno alinhamento entre os envolvidos e clareza sobre seus objetivos.
 A engenharia de requisitos oferece controles e padrões para que as exigências do projeto sejam claras, correspondam às suas finalidades e possam ser compreendidas por todos os responsáveis.
